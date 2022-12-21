@@ -1,6 +1,6 @@
 # Email-Administration-Application
 
-## As a IT support specialist, you need to create an aplication to generate emails accounts for the new hires
+## As an IT support specialist, you need to create an application to generate emails accounts for the new hires
 
 ## What it needs to return:
 <ul>
